@@ -1,2 +1,2 @@
 # CivEngProjects
-Proyectos de ingeniería Civil
+Proyectos de Ingeniería Civil
